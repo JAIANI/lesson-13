@@ -2,6 +2,7 @@ let myName = "Beqa";
 let myHoby = ["reading books", "fitnes", " play footbal", "hunting"];
 let yearOfBirth = 2005;
 let currentYear = 2023;
+console.log(myHoby.length);
 
 let aboutMe = `My name is ${myName}, I am ${
   currentYear - yearOfBirth
